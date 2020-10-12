@@ -39,7 +39,7 @@ public final class Settings {
 
     // --------------------------------------------------------------------- //
 
-    public static boolean useEnergy = true;
+    public static boolean useEnergy = false;
     public static int energyCapacityScanner = 5000;
     public static int energyCostModuleRange = 100;
     public static int energyCostModuleAnimal = 25;
